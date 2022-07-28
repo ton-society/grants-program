@@ -2,8 +2,6 @@
 
 ![](src/TON-Society-Refractions.png)
 
-*Draft as of 25 July 2022*
-
 - [Introduction](#introduction) :wave:
   - [Vision](#vision)
   - [Principles](#principles)
