@@ -1,7 +1,5 @@
 # **TON Society Grants Program**
 
-
-
 ![](src/TON-Society-Refractions.png)
 
 - [Introduction](#introduction) :wave:
