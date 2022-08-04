@@ -14,7 +14,7 @@
 - [Process](#process--eight_spoked_asterisk) :eight_spoked_asterisk:
   - [Application](#application)
   - [Review Committee](#review-committee)
-  - [Evaluation Criteria - Grants](#evaluation-criteria:-grants)
+  - [Evaluation Criteria - Grants](#evaluation-criteria:-grantss)
   - [Evaluation Criteria - TON Footsteps](#evaluation-criteria:-ton-footsteps)
   - [Evaluation Criteria - Sponsorships](#evaluation-criteria:-sponsorships)
   - [Evaluation Criteria - DeFi Rewards Program](#evaluation-criteria:-defi-rewards-program) 
