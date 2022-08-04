@@ -158,8 +158,7 @@ The following people make up the review committee:
 
 **Grant Committee**
 
-- [Justin Hyun](https://github.com/tonkongz)
-- Dasha Vasilieva
+- [Justin Hyun](https://github.com/tonkongz) - Grant evaluator
 - Lisa Ferdman - Sponsorship evaluator
 
 **Technical Advisors**
