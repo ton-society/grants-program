@@ -3,23 +3,23 @@
 ## What is it?
 
 - $14M TON liquidity award program for teams deploying on TON and bringing users to increase the total value locked (TVL) in the ecosystem (e.g., bridge, DEX, etc.)
-- **1-year expiry** (from an official start date of the program) and **6-month cliff and 12-month vesting**
-- Rewards will be unlocked on a first-come, first-served basis ranging from 50,000 TON to $3,500,000 TON 
+- **6-month cliff and 12-month vesting**
+- Rewards will be unlocked on a first-come, first-served basis ranging from $50,000 TON to $3,500,000 TON 
 
 ## Award Tiers
 
 |        | TVL ($)       | Toncoin (TON) |
 | ------ | ------------- | ------------- |
-| Tier 1 | $ 5,000,000   | 250,000       |
-|        | $ 16,250,000  | 350,000       |
-|        | $ 27,500,000  | 450,000       |
-|        | $ 38,750,000  | 550,000       |
-|        | $ 50,000,000  | 650,000       |
-| Tier 2 | $ 70,000,000  | 1,100,000     |
-|        | $ 90,000,000  | 1,550,000     |
-|        | $ 110,000,000 | 2,000,000     |
-| Tier 3 | $ 155,000,000 | 2,750,000     |
-|        | $ 200,000,000 | 3,500,000     |
+| Tier 1 | $ 5,000,000   | $250,000      |
+|        | $ 16,250,000  | $350,000      |
+|        | $ 27,500,000  | $450,000      |
+|        | $ 38,750,000  | $550,000      |
+|        | $ 50,000,000  | $650,000      |
+| Tier 2 | $ 70,000,000  | $1,100,000    |
+|        | $ 90,000,000  | $1,550,000    |
+|        | $ 110,000,000 | $2,000,000    |
+| Tier 3 | $ 155,000,000 | $2,750,000    |
+|        | $ 200,000,000 | $3,500,000    |
 
 ## Additional Guidelines
 
