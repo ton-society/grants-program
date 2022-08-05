@@ -29,7 +29,7 @@ Monthly Active Users (MAU) recommendation
 - Tier 2: 50,000 - 100,000
 - Tier 3: 120,000+
 
-MAU is generally defined as monthly unique website visit and transaction
+MAU is generally defined as monthly unique website visit and transaction. Not an evaluation metric but guideline for the protocols. 
 
 ## Terms
 
