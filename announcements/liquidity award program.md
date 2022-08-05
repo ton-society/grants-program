@@ -37,7 +37,7 @@ MAU is generally defined as monthly unique website visit and transaction
 - Post 1-year window vesting will be at the trailing 1-month average spot TON price
 - 6-month cliff and 12-month vesting
 - Awards vested monthly starting from the half-year mark (e.g. T+6 (months)) based on time-weighted average TVL (rolling 6-months lookback)
-- During the vesting period, TVL must stay above 50% of the highest tier achieved - otherwise vesting is paused
+- During the vesting period, TVL must stay above 50% of the highest level achieved - otherwise vesting is paused
 - Teams must provide information about the protocol via GitHub pull request and public TVL reporting  
 
 ## Conditions
