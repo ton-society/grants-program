@@ -50,5 +50,5 @@ MAU is generally defined as monthly unique website visit and transaction. Not an
 
 While we do not place restrictions on the awards usage (whether the team pours it back into the protocol or funds another project), any report that the award is misused in a way that is negative to the ecosystem will be subject to review and possible termination of rewards.
 
-*T&C subject to change at the discretion of TON Society, based on community feedback*
+*T&C subject to change at the discretion of TON Society, based on community feedback.* *Guidelines will factor in as needed (e.g., heavy concentration of LTV in small number of MAU will be subject to further inquiries).*
 
