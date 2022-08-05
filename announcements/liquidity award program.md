@@ -42,7 +42,7 @@ MAU is generally defined as monthly unique website visit and transaction. Not an
 
 ## Conditions
 
-- Initial approval by TON Society required and pre-determine start date (T+0) and lookback date (T+6)
+- Initial approval by TON Society and pre-determine start date (T+0) / lookback date (T+6) required
 - Sum of funds deposited in the contract - liquid tokens 
 - Definition of liquid tokens for TVL calculation is up to the discretion of TON Society (e.g., major stablecoins, wrapped BTC, TON, etc.)
 
