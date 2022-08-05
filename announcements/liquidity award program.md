@@ -2,7 +2,7 @@
 
 ## What is it?
 
-- $20M TON liquidity award program for teams deploying on TON and brining users to increase the total value locked (TVL) in the ecosystem (e.g., bridge, DEX, etc.)
+- $14M TON liquidity award program for teams deploying on TON and brining users to increase the total value locked (TVL) in the ecosystem (e.g., bridge, DEX, etc.)
 - **1-year expiry** (from an official start date of the program) and **6-months cliff and 12-month vesting**
 - First-come, first-served basis to unlock awards ranging from $250,000 TON to $3,500,000 TON  
 
