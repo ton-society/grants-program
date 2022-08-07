@@ -23,15 +23,16 @@
 
 ## Additional Guidelines
 
-Monthly Active Users (MAU) recommendation:
+Additional guidelines are set in place to prevent cheating. Here are some factors that will be considered:
 
-- Tier 1: 5,000 - 20,000
-- Tier 2: 50,000 - 100,000
-- Tier 3: 120,000+
-
-MAU is generally defined as monthly unique website visit and transaction. Not an evaluation metric but guideline for the protocols. 
-
-[more to be added]
+- Active uesrs (MAU example below)
+  - Tier 1: 5,000 - 20,000
+  - Tier 2: 50,000 - 100,000
+  - Tier 3: 120,000+
+- Liquidity of the locked values
+- Website traffic
+- Number of wallets
+- Number of unique participants
 
 ## Terms
 
