@@ -25,7 +25,7 @@
 
 Additional guidelines are set in place to prevent cheating. Here are some examples that will be considered:
 
-- Active uesrs (MAU example below)
+- Active users (MAU example below)
   - Tier 1: 5,000 - 20,000
   - Tier 2: 50,000 - 100,000
   - Tier 3: 120,000+
