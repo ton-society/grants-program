@@ -6,7 +6,7 @@
 - **6-month cliff and 12-month vesting**
 - Rewards will be unlocked on a first-come, first-served basis ranging from $250,000 TON to $3,500,000 TON 
 
-## Award Tiers
+## Award Tiers (Cumulative)
 
 |        | TVL ($)       | Toncoin (TON) |
 | ------ | ------------- | ------------- |
