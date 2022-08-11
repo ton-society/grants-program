@@ -21,15 +21,15 @@
 | Tier 3 | $ 155,000,000 | $2,950,000    |
 |        | $ 200,000,000 | $3,500,000    |
 
-## Additional Guidelines
+## Additional Guidelines (Examples Only)
 
-Additional guidelines are set in place to prevent cheating. Here are some factors that will be considered:
+Additional guidelines are set in place to prevent cheating. Here are some examples that will be considered:
 
 - Active uesrs (MAU example below)
   - Tier 1: 5,000 - 20,000
   - Tier 2: 50,000 - 100,000
   - Tier 3: 120,000+
-- Liquidity of the locked values
+- Liquidity of the locked values (i.e., reputability of the projects behind the Jettons added to the pool)
 - Website traffic
 - Number of wallets
 - Number of unique participants
