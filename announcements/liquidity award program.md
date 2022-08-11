@@ -45,7 +45,7 @@ Additional guidelines are set in place to prevent cheating. Here are some exampl
 
 ## Conditions
 
-- Initial approval by TON Society and pre-determine start date (T+0) & lookback date (T+6) required
+- Initial approval by TON Society and pre-determined start date (T+0) & lookback date (T+6) required
 - Sum of funds deposited in the contract must be liquid tokens 
 - Definition of liquid tokens for TVL calculation is up to the discretion of TON Society (e.g., major stablecoins, wrapped BTC, TON, etc.)
 
