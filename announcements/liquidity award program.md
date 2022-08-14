@@ -38,10 +38,12 @@ Additional guidelines are set in place to prevent cheating. Here are some exampl
 
 - 1-year window with fixed TON price ($1.00)
 - Post 1-year window vesting will be at the trailing 1-month average TON spot price
-- 6-month cliff and 12-month vesting
+- 6-month cliff and 12-month vesting (see example below)
 - Awards vested monthly starting from the half-year mark (e.g. T+6 (months)) based on time-weighted average TVL (rolling 6-months lookback)
 - During the vesting period, TVL must stay above 50% of the highest level achieved - otherwise vesting is paused
-- Teams must provide information about the protocol via GitHub pull request and public TVL reporting  
+- Teams must provide information about the protocol via GitHub pull request and public TVL reporting
+
+Example: Upon reaching $50M TVL, you are entitled to $950K, but you will receive it only after 6 months of the first date of getting to the TVL. On the 6th month mark, you will receive 50% ($475K), and monthly thereafter you will receive ~$79K ($475K/6). TVL must stay above $25M (50% of the highest achieved). For the vesting months which fall within the 1-year window of the official start date of the program, vested award will be honored at $1 per TON. For vesting months which fall outside of the 1-year window, 1-month time-weighted average price will be used to calculate the amount of TON to be awarded.  
 
 ## Conditions
 
