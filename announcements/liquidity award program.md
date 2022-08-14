@@ -4,7 +4,7 @@
 
 - $14M TON liquidity award program for teams deploying on TON and bringing users to increase the total value locked (TVL) in the ecosystem (e.g., bridge, DEX, etc.)
 - **6-month cliff and 12-month vesting**
-- Rewards will be unlocked on a first-come, first-served basis ranging from $150,000 TON to $3,500,000 TON 
+- Rewards will be unlocked on a first-come, first-served basis ranging from $150,000 TON to $3,500,000 TON (paid out in TON)
 
 ## Award Tiers (Cumulative)
 
