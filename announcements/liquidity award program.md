@@ -40,7 +40,7 @@ Additional guidelines are set in place to prevent cheating. Here are some exampl
 - 1-year window with fixed TON price ($1.00)
 - Post 1-year window vesting will be at the trailing 1-month average TON spot price
 - 6-month cliff and 12-month vesting (see example below)
-- Awards vested monthly starting from the half-year mark (e.g. T+6 (months)) based on time-weighted average TVL (rolling 6-months lookback)
+- Awards vested monthly starting from the half-year mark (e.g. T+6 (months)) based on time-weighted average TVL
 - During the vesting period, TVL must stay above the lowest level (i.e., $5M) - otherwise, vesting is paused
 - Award vested will be calculated based on the time-weighted average of 75% of the highest tier achieved (see example below)
 - Teams must provide information about the protocol via GitHub pull request and public TVL reporting
