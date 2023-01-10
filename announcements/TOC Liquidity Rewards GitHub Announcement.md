@@ -31,7 +31,7 @@
 - Rewards will be calculated as 2% of the annual TVL.
 - TVL will be calculated based on data from https://defillama.com/chain/TON
 - TVL will be calculated by taking a daily snapshot of Total TVL in DefiLlama as an (prorated) average over the course of the quarter, Even if the project started after the Quarter began.
-- TVL will be calculated in USDRewards will be calculated in USD.
+- TVL will be calculated in USD.
 - Rewards Payouts will be distributed in TONcoin (measured in USD).
 - Rewards Payouts will occur quarterly and be paid in TON, measured in USD value of TON with a 30 day Time Weighted Average price for TON.
 - Rewards Payouts will be subject to a 3 month lockup period from the reward date (End of Quarter term).
