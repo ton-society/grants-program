@@ -45,7 +45,7 @@ We want Grants to be one of the entry points for the TON ecosystem. Grants are t
 
 ## Goals
 
-1. Providing funding for tools and projects benefiting the community.
+1. Providing funding for tools and projects benefiting the community without clear opportunity for commercialization.
 2. Attracting talented builders to TON Ecosystem.
 3. Serve as an emergency funding for builders or projects.
 4. Provide endorsement and media coverage to good projects.
