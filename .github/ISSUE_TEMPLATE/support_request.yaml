@@ -1,0 +1,45 @@
+name: Support Request
+description: Request for support in a form of a grant or sponsorship in the interest of TON Community.
+labels: 'Support request'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        TON is really open to supporting talented builders willing to contribute to the ecosystem.
+
+        Create issue with this template if you want to get help from the community and grant team with shaping the grant request.
+  - type: textarea
+    attributes:
+      label: "Summary"
+      description: "Short summary of what do you want to deliver to TON Ecosystem."
+      placeholder: "Example: 50,000 new users, ~10,000 Monthly Active TON wallets with a new NFT project."
+    validations:
+      required: True
+  - type: input
+    attributes:
+      label: "Budget estimation"
+      description: "Budget in TON which is required to deliver value to TON Ecosystem."
+      placeholder: "42000"
+    validations:
+      required: True
+  - type: textarea
+    attributes:
+      label: "Context"
+      description: "Provide some information required to understand why this needs to be considered now."
+      placeholder: "Example: Ecosystem lacks tools for DAO voting. All other major L1 blockchains have those."
+    validations:
+      required: False
+  - type: textarea
+    attributes:
+      label: "KPI"
+      placeholder: |
+        * If applicable, provide list of KPIs which suggested project / product might achieve.
+    validations:
+      required: False
+  - type: textarea
+    attributes:
+      label: "Suggested form of support"
+      description: "What do you need a help with. Consulting? Funding? Introductions inside or outside the community?"
+      placeholder: "Example: We want to migrate a game from some L2, but we need funding and endorsement."
+    validations:
+      required: True
