@@ -115,29 +115,6 @@
 * After the evaluation, accepted grantees will be notified on [Questbook](https://questbook.app/) and officially announced monthly on relevant TON Community and TON Society channels.
 * The program also offers limited technical and marketing support to grant recipients to ensure their success
 
-
-## **Review Committee**
-
-The following people make up the review committee:
-
-
-
-* Grants Committee:
-    * Robin Dey (TON Foundation) - Head of Grants / Grant Evaluator
-    * Justin Hyun (TON Foundation) - Head of Incubation / Grant Evaluator
-    * Kirill Malev - Grant Scout
-* Technical Advisors:
-    * Tal Kol (Orbs)
-    * Dr. Elias (TonTech.io)
-    * Narek Abovyan (Ton Tech)
-    * Mark Okhman (TON&Co)
-    * Daniil Gentili (MadelineProto)
-    * Shahar Yakir (Orbs)
-* Operational Advisors:
-    * Steve Yun (TON Foundation) - Founding Member
-    * Oleg (TON Foundation) - Founding Member
-
-
 ## **Payment**
 
 
